@@ -58,5 +58,5 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/ChinaCarlos" }],
     // 部署的时候需要注意该参数避免样式丢失
   },
-  base: "/blog_vitepress/",
+  base: "/blog-website/",
 });
